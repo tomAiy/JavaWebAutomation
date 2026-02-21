@@ -4,89 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be00ba4-c4c0-4eec-ab6d-51b374e8232c" name="Changes" comment="Java Web Automation Project">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/chromerun.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/edegrun.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_07_2025_15_34_[Changes]/failed-step-1752841788452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_07_2025_15_34_[Changes]/failed-step-1753193285306.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_07_2025_15_34_[Changes]/failed-step-1753193745673.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_07_2025_15_34_[Changes]/failed-step-1753194453669.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_07_2025_15_34_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/Customer_adds_an_item_to_the_basket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/Customer_logs_out_through_product_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/Customer_purchases_a_single_item.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/User_enter_invalid_username_or_password.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/User_enters_invalid_username_or_password_but_expects_successful_login.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/Valid_product_prices_displayed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1752840523492.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1752841788452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753193285306.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753193745673.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753194453669.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753200073837.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753200076468.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753200077906.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753200504989.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753201173335.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753201174571.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753201174905.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753201177908.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753205760354.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753206184410.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207495986.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207496339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207496464.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207496591.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207659141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207660137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207660460.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753207663033.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753259773125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753259875893.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753259997764.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753260384516.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753261015186.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753261015408.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/failed-step-1753261015631.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestResults/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/WebApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/pages/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/pages/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/pages/general/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/pages/sections/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ConfigLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/CsvReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/ElementWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/WaitUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utilities/webdrivermanager/WebAppDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/execution/TestExecutionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/ExtentReportListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepsdefinitions/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepsdefinitions/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepsdefinitions/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepsdefinitions/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepsdefinitions/general/BaseDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/CustomerPurchase.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/IncorrectCredentials.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/InvalidCredentials.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Logout.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ProductPrices.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/UpdateBaketCount.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/products.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0be00ba4-c4c0-4eec-ab6d-51b374e8232c" name="Changes" comment="Java Web Automation Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +44,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "TestNG.C:/Users/tommy.oladiti/IdeaProjects/JavaWebAutomation/src/test/resources/testng.xml.executor": "Run",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/tommy.oladiti/IdeaProjects/Project",
@@ -477,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753890887779</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Java Web Automation Project">
+      <option name="closed" value="true" />
+      <created>1771711208312</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1771711208312</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
