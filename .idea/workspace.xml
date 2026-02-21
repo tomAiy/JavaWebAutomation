@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be00ba4-c4c0-4eec-ab6d-51b374e8232c" name="Changes" comment="Java Web Automation Project" />
+    <list default="true" id="0be00ba4-c4c0-4eec-ab6d-51b374e8232c" name="Changes" comment="updated selenium">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tomAiy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tomAiy/JavaWebAutomation.git",
+    "accountId": "df46769b-5671-4d41-8efb-7be12e48fef1"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -404,7 +419,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771711208312</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="updated webdriver">
+      <option name="closed" value="true" />
+      <created>1771711951442</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1771711951443</updated>
+    </task>
+    <task id="LOCAL-00028" summary="updated selenium">
+      <option name="closed" value="true" />
+      <created>1771712183012</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1771712183013</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,7 +470,9 @@
     <MESSAGE value="headless browser" />
     <MESSAGE value="refactoring and adding assert methods" />
     <MESSAGE value="Java Web Automation Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Web Automation Project" />
+    <MESSAGE value="updated webdriver" />
+    <MESSAGE value="updated selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated selenium" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
